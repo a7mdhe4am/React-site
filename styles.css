@@ -6,6 +6,9 @@ body {
     margin: 0;
     height: 100vh;
     background-color: #282D35;
+    background-image: url(./images/react-icon-large.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 nav {
